@@ -1,4 +1,4 @@
-class CLI::MeetupCliApp
+class MeetupCliApp::CLI
   def call
     "Welcome to Meet up!"
   end
