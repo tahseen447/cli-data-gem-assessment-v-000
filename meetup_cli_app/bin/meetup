@@ -1,4 +1,3 @@
 #!/usr/bin/env ruby
 
-#MeetupCliApp::CLI.new.call
-puts "Hello world!"
+MetupCliApp::CLI.new.call
