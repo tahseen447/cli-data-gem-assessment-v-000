@@ -1,4 +1,3 @@
 #!/usr/bin/env ruby
 
-require "./lib"
 MeetupCliApp::CLI.new.call
